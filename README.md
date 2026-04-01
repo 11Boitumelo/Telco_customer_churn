@@ -63,5 +63,3 @@ This project demonstrates how data analysis can be used to identify churn patter
 
 ---
 
-##  Author
-**Boitumelo Mthimunye
