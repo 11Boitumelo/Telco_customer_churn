@@ -4,14 +4,14 @@
 This project analyzes customer churn behavior using the IBM Telco Customer Churn dataset.  
 The goal is to identify key factors that influence customer churn and provide actionable business insights.
 
----
+
 
 ## The Dataset
 - Source: IBM Telco Customer Churn Dataset  
 - Records: 7043 customers  
 - Features: 21 variables including customer demographics, services, and billing information  
 
----
+
 
 ##  Tools & Technologies
 - Python  
@@ -20,7 +20,7 @@ The goal is to identify key factors that influence customer churn and provide ac
 - Seaborn  
 - Jupyter Notebook  
 
----
+
 
 ##  Key Analysis Performed
 - Data cleaning and preprocessing  
@@ -32,7 +32,7 @@ The goal is to identify key factors that influence customer churn and provide ac
 - Internet service vs churn  
 - Correlation heatmap  
 
----
+
 
 ##  Key Insights
 
@@ -41,7 +41,7 @@ The goal is to identify key factors that influence customer churn and provide ac
 - New customers (low tenure) are more likely to leave  
 - Fiber optic users show higher churn rates  
 
----
+
 
 ##  Recommendations
 
@@ -50,13 +50,13 @@ The goal is to identify key factors that influence customer churn and provide ac
 - Improve onboarding for new customers  
 - Investigate fiber optic service issues  
 
----
+
 
 ## 📸 Visualizations
 
 ![Churn Distribution](churn_distribution.png)
 
----
+
 
 ##  Conclusion
 This project demonstrates how data analysis can be used to identify churn patterns and support business decision-making.
