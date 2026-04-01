@@ -54,7 +54,8 @@ The goal is to identify key factors that influence customer churn and provide ac
 
 ## 📸 Visualizations
 
-![Churn Distribution](images/churn_distribution.png)
+![Churn Distribution](churn_distribution.png)
+
 ---
 
 ##  Conclusion
